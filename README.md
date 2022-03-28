@@ -1,4 +1,4 @@
-# python-quefome
+# Quefome
 Análises para o Índice Nacional de Preços ao Consumidor - INPC
 
 ### Introdução
